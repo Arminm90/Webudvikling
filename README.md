@@ -1,2 +1,2 @@
 # Webudvikling
-Full Stack
+Full Stack med PHP og Sql backend
